@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rebirth.iml" filepath="$PROJECT_DIR$/.idea/rebirth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-common/rebirth-common.iml" filepath="$PROJECT_DIR$/rebirth-common/rebirth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-common-code/rebirth-common-code.iml" filepath="$PROJECT_DIR$/rebirth-common-code/rebirth-common-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-common-mq/rebirth-common-mq.iml" filepath="$PROJECT_DIR$/rebirth-common-mq/rebirth-common-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-common-web/rebirth-common-web.iml" filepath="$PROJECT_DIR$/rebirth-common-web/rebirth-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-config/rebirth-config.iml" filepath="$PROJECT_DIR$/rebirth-config/rebirth-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-facade-user/rebirth-facade-user.iml" filepath="$PROJECT_DIR$/rebirth-facade-user/rebirth-facade-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-parent/rebirth-parent.iml" filepath="$PROJECT_DIR$/rebirth-parent/rebirth-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-service-user/rebirth-service-user.iml" filepath="$PROJECT_DIR$/rebirth-service-user/rebirth-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-web-api/rebirth-web-api.iml" filepath="$PROJECT_DIR$/rebirth-web-api/rebirth-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebirth-web-op/rebirth-web-op.iml" filepath="$PROJECT_DIR$/rebirth-web-op/rebirth-web-op.iml" />
+    </modules>
+  </component>
+</project>

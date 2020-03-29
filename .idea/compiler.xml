@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="rebirth-common" />
+        <module name="rebirth-common-code" />
+        <module name="rebirth-common-mq" />
+        <module name="rebirth-common-web" />
+        <module name="rebirth-config" />
+        <module name="rebirth-facade-user" />
+        <module name="rebirth-service-user" />
+        <module name="rebirth-web-api" />
+        <module name="rebirth-web-op" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="parent" target="1.8" />
+      <module name="rebirth-common" target="1.8" />
+      <module name="rebirth-common-code" target="1.8" />
+      <module name="rebirth-common-mq" target="1.8" />
+      <module name="rebirth-common-web" target="1.8" />
+      <module name="rebirth-config" target="1.8" />
+      <module name="rebirth-facade-user" target="1.8" />
+      <module name="rebirth-parent" target="1.8" />
+      <module name="rebirth-service-user" target="1.8" />
+      <module name="rebirth-web-api" target="1.8" />
+      <module name="rebirth-web-op" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

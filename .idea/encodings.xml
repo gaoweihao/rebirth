@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rebirth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-common-code" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-common-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-common-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-facade-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-service-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-web-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rebirth-web-op" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study-platform-parent" charset="UTF-8" />
+  </component>
+</project>

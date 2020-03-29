@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="E:/ideaworkspase/workspace/rebirth/rebirth-common-mq" vcs="Git" />
+    <mapping directory="E:/ideaworkspase/workspace/rebirth/rebirth-common-web" vcs="Git" />
+    <mapping directory="E:/ideaworkspase/workspace/rebirth/rebirth-parent" vcs="Git" />
+    <mapping directory="E:/ideaworkspase/workspace/rebirth/rebirth-service-user" vcs="Git" />
+    <mapping directory="E:/ideaworkspase/workspace/rebirth/rebirth-web-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-common-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-common-mq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-common-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-facade-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-service-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-web-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebirth-web-op" vcs="Git" />
+  </component>
+</project>
